@@ -20,6 +20,6 @@ twist:
           link: "/archive.html"
     page_limit: 10
 #    urchin: "UA-123456-1"
-#    disqus:
-#        shortname: "my-disqus-shortname"
+    disqus:
+        shortname: "jhaohai"
 #        developer: 0
