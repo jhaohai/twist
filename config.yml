@@ -1,0 +1,25 @@
+appname: "Twist"
+
+layout: "main"
+
+charset: "UTF-8"
+
+template: "caml"
+
+twist:
+    author: "jhaohai"
+    about: "这个人很懒，什么都没有留下"
+    title: "快乐的IT"
+    description: "一切只为好玩"
+    menu:
+        - title: "index"
+          link: "/"
+        - title: "tags"
+          link: "/tags.html"
+        - title: "archive"
+          link: "/archive.html"
+    page_limit: 10
+#    urchin: "UA-123456-1"
+#    disqus:
+#        shortname: "my-disqus-shortname"
+#        developer: 0
