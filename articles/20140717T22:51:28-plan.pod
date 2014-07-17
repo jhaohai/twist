@@ -11,6 +11,6 @@ Tags: 日志
 
 翻译《Modern Perl》。
 
-迁移博客到markdown上，实在忍受不料POD了。
+迁移博客到markdown上，实在忍受不了POD。
 
 暂时就这些了。
