@@ -5,8 +5,4 @@ Tags: 博客
 
 Hello World!
 
-[cut] 继续阅读
-
-=encoding utf8
-
 这是我在twist上的第一遍博客。

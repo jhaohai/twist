@@ -1,0 +1,16 @@
+Title: 暑期计划
+Tags: 日志
+
+=encoding utf8
+
+时间好快，都七月中旬了，赶紧弄个计划干活：
+
+每天至少一个commit，让github看上去逼格更高。
+
+做毕设。
+
+翻译《Modern Perl》。
+
+迁移博客到markdown上，实在忍受不料POD了。
+
+暂时就这些了。
