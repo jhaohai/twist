@@ -1,0 +1,10 @@
+Title: 用户目录
+Tags: 日志, Linux
+
+=encoding utf8
+
+刚装完arch，用户目录不识别，查了以下，需要用到
+
+    xdg-user-dirs-update
+    
+更新一下才行。
