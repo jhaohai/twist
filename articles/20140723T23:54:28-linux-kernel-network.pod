@@ -1,0 +1,8 @@
+Title: Linux kernel 网络工作流程
+Tags: 网络, Linux, 杀死二层
+
+=encoding utf8
+
+最近心血来朝，想研究 Linux 内核的网络包处理流程。各种“啃”内核源码。还找到了一个介绍工作流程的ppt，觉得不错。
+
+L<http://raisama.net/talks/fisl10/kernel-hacking/network.pdf>
